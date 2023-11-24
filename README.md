@@ -1,4 +1,6 @@
-### https://removebg-bulk.netlify.app/
+Forked from [Bryce Russell](https://github.com/BryceRussell/removebg-bulk]
+### https://removebg-bulk.netlify.app/ (from his repo)
+### https://remove-that-bg.netlify.app/ (from this repo)
 
 # Remove Background Bulk
 
